@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aditya/College/Projects/Compression/Coders/HuffmanEncoding/HuffmanNode.cpp
+HuffmanNode.h
+/home/aditya/College/Projects/Compression/Coders/HuffmanEncoding/HuffmanNode.h
+
+/home/aditya/College/Projects/Compression/Coders/HuffmanEncoding/HuffmanNode.h
+mInclude.h
+/home/aditya/College/Projects/Compression/Coders/HuffmanEncoding/mInclude.h
+
+/home/aditya/College/Projects/Compression/Coders/HuffmanEncoding/mInclude.h
+map
+-
+queue
+-
+iostream
+-
+istream
+-
+ostream
+-
+algorithm
+-
+vector
+-
+utility
+-
+string
+-
+

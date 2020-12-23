@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HuffmanEncoding.dir/HuffmanNode.cpp.o  -o HuffmanEncoding 
